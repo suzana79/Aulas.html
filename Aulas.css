@@ -33,13 +33,13 @@ nav a:hover {
 	text-decoration: underline;
 }
 
-.produtos {
+.aulas {
 	width: 940px;
 	margin: 0 auto;
 	padding: 50px 0;
 }
 
-.produtos li {
+.aulas li {
 	display: inline-block;
 	text-align: center;
 	width: 30%;
@@ -51,28 +51,28 @@ nav a:hover {
 	border-radius: 10px;
 }
 
-.produtos li:hover {
+.aulas li:hover {
 	border-color: #C78C19;
 }
 
-.produtos li:active {
+.aulas li:active {
 	border-color: #088C19;	
 }
 
-.produtos li:hover h2 {
+.aulas li:hover h2 {
 	font-size: 34px;
 }
 
-.produtos h2 {
+.aulas h2 {
 	font-size: 30px;
 	font-weight: bold;
 }
 
-.produto-descricao {
+.aula-descricao {
 	font-size: 18px;
 }
 
-.produto-preco {
+.aula-preco {
 	font-size: 22px;
 	font-weight: bold;
 	margin-top: 10px;
@@ -80,12 +80,18 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
 	padding: 40px 0;
 }
 
 .copyright {
-	color: #FFFFFF;
+	color: ##8098ff;
 	font-size: 13px;
 	margin: 20px 0 0;
 }
+
+
+
+
+
+
+
