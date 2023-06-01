@@ -1,5 +1,6 @@
+
 header {
-	background: #BBBBBB;
+	background: #000000;
 	padding: 20px 0;
 }
 
@@ -22,14 +23,14 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: #ffffff;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: #C78C19;
+	color: #737373;
 	text-decoration: underline;
 }
 
@@ -52,11 +53,11 @@ nav a:hover {
 }
 
 .aulas li:hover {
-	border-color: #C78C19;
+	border-color: #ff000a;
 }
 
 .aulas li:active {
-	border-color: #088C19;	
+	border-color: #8d0006;	
 }
 
 .aulas li:hover h2 {
@@ -84,14 +85,9 @@ footer {
 }
 
 .copyright {
-	color: ##8098ff;
+	color: #000000;
 	font-size: 13px;
 	margin: 20px 0 0;
 }
-
-
-
-
-
 
 
