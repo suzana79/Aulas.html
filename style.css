@@ -1,7 +1,7 @@
 body {
 
-    background: #000000;
-
+    background-image: -moz-linear-gradient ( #000000, #d80303dc);
+    height: 100vh;
 }
 
 #banner {
