@@ -133,7 +133,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: rgba(255, 23, 23, 0.822);
 	transform: scale(1.2);
 }
 
